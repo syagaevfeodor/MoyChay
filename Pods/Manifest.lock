@@ -1,0 +1,15 @@
+PODS:
+  - CardIO (5.4.1)
+  - Kanna (2.1.1)
+
+DEPENDENCIES:
+  - CardIO
+  - Kanna (~> 2.1.0)
+
+SPEC CHECKSUMS:
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  Kanna: 9b4b086c218703f2b94f5b21a466217dd2f9332e
+
+PODFILE CHECKSUM: 380f0fb5048f7bb0acf3fa8f44db265d7e6191e0
+
+COCOAPODS: 1.2.1
